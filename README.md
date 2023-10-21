@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi there 
+
+I am a problem-solver with a strong background in data analysis, data visualization, and image analysis using Python. I have a Master's in nanotechnology and a PhD in Engineering Physics. I have gradually fallen in love with coding and data and found that my passion lies in translating data into actionable insights to solve real-world challenges.
+
+
+### :raised_hands:Connect with me
+(LinkedIn)[https://www.linkedin.com/in/oskar-strom-phd/]
 
 <!--
 **oskarestrom/oskarestrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
