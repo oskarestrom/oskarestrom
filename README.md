@@ -4,8 +4,6 @@ I am a problem-solver with a strong background in data analysis, data visualizat
 
 
 ### :raised_hands:Connect with me
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-strom-phd/)
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 [LinkedIn](https://www.linkedin.com/in/oskar-strom-phd/)
 
 <!--
