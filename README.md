@@ -4,7 +4,7 @@ I am a problem-solver with a strong background in data analysis, data visualizat
 
 
 ### :raised_hands:Connect with me
-(LinkedIn)[https://www.linkedin.com/in/oskar-strom-phd/]
+[LinkedIn](https://www.linkedin.com/in/oskar-strom-phd/)
 
 <!--
 **oskarestrom/oskarestrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
