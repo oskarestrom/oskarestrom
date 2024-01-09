@@ -13,6 +13,10 @@ I am a problem-solver with a strong background in data analysis, data visualizat
 ### :raised_hands:Connect with me
 [LinkedIn](https://www.linkedin.com/in/oskar-strom-phd/)
 
+### 🔭 Connect with Trice
+
+[trice.se](https://www.trice.se)
+[Trice @ LinkedIn](https://www.linkedin.com/company/triceab/)
 <!--
 **oskarestrom/oskarestrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
