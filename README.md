@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Oskar
 
-I am Data Scientist / Data Engineer :computer: that recently transitioned from Engineering Physics Research:microscope:.
+I am Data Scientist / Data Engineer :computer: that recently transitioned from Engineering Physics Research :microscope:.
 
 I am a problem-solver with a strong background in data analysis, data visualization, and image analysis using Python. I have a Master's in nanotechnology and a PhD in Engineering Physics. I have gradually fallen in love with coding and data and found that my passion lies in translating data into actionable insights to solve real-world challenges.
 
