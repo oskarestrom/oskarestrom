@@ -14,9 +14,10 @@ I am a problem-solver with a strong background in data analysis, data visualizat
 [LinkedIn](https://www.linkedin.com/in/oskar-strom-phd/)
 
 ### 🔭 Connect with Trice
+![triceab_logo](https://github.com/oskarestrom/oskarestrom/assets/32895717/546912dc-1e9e-4a7c-9750-9b3021f3fe52)
 
-[trice.se](https://www.trice.se)
-[Trice @ LinkedIn](https://www.linkedin.com/company/triceab/)
+* [trice.se](https://www.trice.se)
+* [Trice @ LinkedIn](https://www.linkedin.com/company/triceab/)
 <!--
 **oskarestrom/oskarestrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
