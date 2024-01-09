@@ -6,7 +6,7 @@ I am a problem-solver with a strong background in data analysis, data visualizat
 
 ### My skills
 * :snake: Python
-* :microscope:Research and Engineering [Google Scholar](https://scholar.google.se/citations?user=13M2A-4AAAAJ&hl=sv&oi=ao)
+* :microscope:Research and Engineering ([Google Scholar](https://scholar.google.se/citations?user=13M2A-4AAAAJ&hl=sv&oi=ao))
 * :camera:Image Analysis
 * :computer: SQL
 
